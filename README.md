@@ -1,1 +1,1 @@
-# Coursera_Capstone
+This project leverages the pandas, numpy, and scikitlearn libraries to perform a k-means clustering analysis on Philadelphia neighborhoods to identify the best area to open an Italian restaurant. Philadelphia neighborhood data is pulled from OpenDataPhilly, and the gelocation data for Philadelphia restaurants is pulled from the Foursquare API.
